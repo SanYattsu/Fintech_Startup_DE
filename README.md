@@ -15,6 +15,8 @@
 
 ## Архитектура итогового решения
 
+![architecture](https://github.com/SanYattsu/Fintech_Startup_DE/assets/93816292/66c4e04a-c3f6-4941-8cbe-746ad9b8c251)
+
 ## Структура данных
 
 ### **transactions**
