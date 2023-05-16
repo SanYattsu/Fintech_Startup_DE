@@ -13,9 +13,9 @@
 * Подготовить дашборд бизнес метрик (Data Lens).
 * Понять, как выглядит динамика оборота всей компании и что приводит к его изменениям.
 
-## Архитектура итогового решения
+## Архитектура решения
 
-![architecture](https://github.com/SanYattsu/Fintech_Startup_DE/assets/93816292/66c4e04a-c3f6-4941-8cbe-746ad9b8c251)
+![architecture](https://github.com/SanYattsu/Fintech_Startup_DE/assets/93816292/3d43d9d1-4b28-4bd8-b8dc-ca74c3795c1f)
 
 ## Структура данных
 
